@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/Code Coverage/1.2.2/Code Coverage Tutorial/Asteroids/Scenes/Asteroids.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
